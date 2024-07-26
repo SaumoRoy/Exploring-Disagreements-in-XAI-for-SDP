@@ -1,0 +1,7 @@
+Feature                  Contribution        Cumulative          
+Intercept = 1            0                   0                   
+Del_lines = 38           0.29                0.29                
+CountPath_Max = 1        0.05                0.34                
+CountPath_Mean = 1.0     0.59                0.93                
+Final prediction                             0.93                
+Baseline = 1.0

@@ -1,0 +1,7 @@
+Feature                  Contribution        Cumulative          
+Intercept = 1            0                   0                   
+MAJOR_COMMIT = 3         0.01                0.01                
+CountDeclMethod = 14     0.08                0.09                
+ADEV = 3                 0.87                0.96                
+Final prediction                             0.96                
+Baseline = 1.0

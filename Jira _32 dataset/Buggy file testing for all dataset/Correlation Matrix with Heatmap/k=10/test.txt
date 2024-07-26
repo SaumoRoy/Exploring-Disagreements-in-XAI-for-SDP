@@ -1,0 +1,14 @@
+Feature                  Contribution        Cumulative          
+Intercept = 1            0                   0                   
+ADEV = 12                0.11                0.11                
+MAJOR_COMMIT = 4         0.37                0.48                
+CountStmt = 435          0.15                0.63                
+CountLineCode = 519      0.21                0.84                
+AvgLine = 21             0.04                0.88                
+SumCyclomatic = 50       0.04                0.92                
+CountDeclMethod = 30     0.0                 0.92                
+CountSemicolon = 377     0.0                 0.92                
+AvgLineBlank = 2         0.0                 0.92                
+AvgCyclomatic = 2        0.0                 0.92                
+Final prediction                             0.92                
+Baseline = 1.0

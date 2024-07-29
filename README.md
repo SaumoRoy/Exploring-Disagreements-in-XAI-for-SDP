@@ -9,7 +9,7 @@ Our findings indicate that implementing a specific set of features can enhance b
 ## Materials included in the Replication Package
   ### Survey Questionaires:replication_package/Survey Questionaires
 * Survey.pdf is the survey form for the control group
-### Survey Responses:XAI-in-Software-Defect-Predication-In-depth-evaluation/Survey Responses/
+### Survey Responses:replication_package/Survey Responses
 * Survey Responses.csv contains the responses given by the control group
 ### Survey Result:XAI-in-Software-Defect-Predication-In-depth-evaluation/Survey Result/
 * Summary_Survey Responses.pdf contains the summarized responses  

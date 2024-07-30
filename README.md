@@ -11,7 +11,7 @@ Our findings indicate that implementing a specific set of features can enhance b
 * Survey.pdf is the survey form for the control group
 ### Survey Responses:replication_package/Survey Responses
 * Survey Responses.csv contains the responses given by the control group
-### Survey Result:XAI-in-Software-Defect-Predication-In-depth-evaluation/Survey Result/
+### Survey Result:replication_package/Survey Result
 * Summary_Survey Responses.pdf contains the summarized responses  
 ### Data Preprocessing:XAI-in-Software-Defect-Predication-In-depth-evaluation/Jira _32 dataset/
 * Supporting Documents.pdf contains data preprocessing and other experimental result

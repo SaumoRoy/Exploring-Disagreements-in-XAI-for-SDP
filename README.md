@@ -9,7 +9,7 @@ Our findings indicate that implementing a specific set of features can enhance b
 ## Materials included in the Replication Package
 ### Experimental Result:replication_package/Jira _32 dataset/Buggy file testing for all dataset/Chi-Square Test
 * Chi-Square Test Result.pdf for all dataset
-### Experimental Result:replication_package/Jira _32 dataset/Buggy file testing for all dataset
+### Experimental Result:replication_package/Jira _32 dataset/Buggy file testing for all dataset/Correlation Matrix with Heatmap
 * Chi-Square Test Result.pdf for all dataset
 ### Survey Questionaires:replication_package/Survey Questionaires
 * Survey.pdf is the survey form for the control group
